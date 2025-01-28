@@ -1,4 +1,5 @@
 # repo-1
 Primer repo creado en github
 
-## repositorio de prueba.
+## Descripcion
+Es un repositorio de prueba
